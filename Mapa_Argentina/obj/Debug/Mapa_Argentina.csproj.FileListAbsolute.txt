@@ -1,0 +1,55 @@
+C:\Users\Flavio\source\repos\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.AssemblyReference.cache
+C:\Users\Flavio\source\repos\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.Properties.Resources.resources
+C:\Users\Flavio\source\repos\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.GenerateResource.cache
+C:\Users\Flavio\source\repos\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\source\repos\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.Form1.resources
+C:\Users\Flavio\source\repos\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.Form2.resources
+C:\Users\User\Desktop\Nueva carpeta\Mapa_Argentina\Mapa_Argentina\bin\Debug\Mapa_Argentina.exe.config
+C:\Users\User\Desktop\Nueva carpeta\Mapa_Argentina\Mapa_Argentina\bin\Debug\Mapa_Argentina.exe
+C:\Users\User\Desktop\Nueva carpeta\Mapa_Argentina\Mapa_Argentina\bin\Debug\Mapa_Argentina.pdb
+C:\Users\User\Desktop\Nueva carpeta\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nueva carpeta\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.Form1.resources
+C:\Users\User\Desktop\Nueva carpeta\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.Form2.resources
+C:\Users\User\Desktop\Nueva carpeta\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.Properties.Resources.resources
+C:\Users\User\Desktop\Nueva carpeta\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nueva carpeta\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nueva carpeta\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.exe
+C:\Users\User\Desktop\Nueva carpeta\Mapa_Argentina\Mapa_Argentina\obj\Debug\Mapa_Argentina.pdb
+C:\Users\Flavio\source\repos\Mapa_Argentina\Mapa_Argentina\bin\Debug\Conociendo la Argentina.exe.config
+C:\Users\Flavio\source\repos\Mapa_Argentina\Mapa_Argentina\bin\Debug\Conociendo la Argentina.exe
+C:\Users\Flavio\source\repos\Mapa_Argentina\Mapa_Argentina\bin\Debug\Conociendo la Argentina.pdb
+C:\Users\Flavio\source\repos\Mapa_Argentina\Mapa_Argentina\obj\Debug\Conociendo la Argentina.exe
+C:\Users\Flavio\source\repos\Mapa_Argentina\Mapa_Argentina\obj\Debug\Conociendo la Argentina.pdb
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3\Mapa_Argentina\bin\Debug\Conociendo la Argentina.exe.config
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3\Mapa_Argentina\bin\Debug\Conociendo la Argentina.exe
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3\Mapa_Argentina\bin\Debug\Conociendo la Argentina.pdb
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.AssemblyReference.cache
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3\Mapa_Argentina\obj\Debug\Mapa_Argentina.Form1.resources
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3\Mapa_Argentina\obj\Debug\Mapa_Argentina.Form2.resources
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3\Mapa_Argentina\obj\Debug\Mapa_Argentina.Properties.Resources.resources
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.GenerateResource.cache
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3\Mapa_Argentina\obj\Debug\Conociendo la Argentina.exe
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3\Mapa_Argentina\obj\Debug\Conociendo la Argentina.pdb
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_1\Mapa_Argentina\bin\Debug\Conociendo la Argentina.exe.config
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_1\Mapa_Argentina\bin\Debug\Conociendo la Argentina.exe
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_1\Mapa_Argentina\bin\Debug\Conociendo la Argentina.pdb
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_1\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.AssemblyReference.cache
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_1\Mapa_Argentina\obj\Debug\Mapa_Argentina.Form1.resources
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_1\Mapa_Argentina\obj\Debug\Mapa_Argentina.Form2.resources
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_1\Mapa_Argentina\obj\Debug\Mapa_Argentina.Properties.Resources.resources
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_1\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.GenerateResource.cache
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_1\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_1\Mapa_Argentina\obj\Debug\Conociendo la Argentina.exe
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_1\Mapa_Argentina\obj\Debug\Conociendo la Argentina.pdb
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_2\Mapa_Argentina\bin\Debug\Conociendo la Argentina.exe.config
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_2\Mapa_Argentina\bin\Debug\Conociendo la Argentina.exe
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_2\Mapa_Argentina\bin\Debug\Conociendo la Argentina.pdb
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_2\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.AssemblyReference.cache
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_2\Mapa_Argentina\obj\Debug\Mapa_Argentina.Form1.resources
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_2\Mapa_Argentina\obj\Debug\Mapa_Argentina.Form2.resources
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_2\Mapa_Argentina\obj\Debug\Mapa_Argentina.Properties.Resources.resources
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_2\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.GenerateResource.cache
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_2\Mapa_Argentina\obj\Debug\Mapa_Argentina.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_2\Mapa_Argentina\obj\Debug\Conociendo la Argentina.exe
+C:\Users\Flavio\source\repos\Mapa_Argentina_1_3_3_2\Mapa_Argentina\obj\Debug\Conociendo la Argentina.pdb
